@@ -62,4 +62,4 @@
         alt="sinsarulhaq" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawaf-vp&show_icons=true&locale=en" alt="sinsarulhaq" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nawaf-vp&show_icons=true&locale=en" alt="sinsarulhaq" /></p>
